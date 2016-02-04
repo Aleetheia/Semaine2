@@ -8,3 +8,5 @@
 * Learn CSS in 12 minutes
 * PrimFX : HTML, les bases
 
+__Exercice 3 : 1ère version de votre CV en HTML__  
+Site-CV déjà réalisé en HTML/CSS avec l'aide de bootstrap
